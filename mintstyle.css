@@ -1,0 +1,80 @@
+body{
+	background-color: white;
+}
+header{
+background-image: url('images mint/hero3-2.jpg');
+height: 500px;
+}
+nav{
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
+nav li{
+	display: inline-block;
+	margin-right: 35px;
+	
+}
+ul{
+	margin-top: 25px;
+}
+
+li{
+font-family: 'Arial Black', serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.7em;
+	color: rgb(31,32,37);
+}
+	a{
+	text-decoration: none;
+}
+#first{
+margin-right: 25px;
+margin-top: 25px;
+}
+#tuil{
+display: inline-block;
+margin-right: 200px;
+
+}
+#prou{ 
+	width: 100%;
+	background-color: rgb(255,255,255);
+	height: 84px;
+    margin:0;
+
+}
+h1{
+	font-size: 3em;
+	text-align: center;
+	color: white;
+}
+#opu{
+	font-size: 1.3em;
+	text-align: center;
+	color: white;
+	margin-bottom: 100px;
+}
+#mok{
+	text-align: center;
+	margin-top:20px; 
+
+}
+#mok a{
+	color: white;
+	border: 1px solid rgba(142,142,142,0.5);
+	padding: 7px 7px 7px 7px;
+background-color: rgba(142,142,142,0.5);
+
+}
+#POOL{
+	text-align: center;
+}
+#REAT{
+	text-align: left;
+}
+#POTRO{
+	text-align: center;
+	margin:20px  20px;
+}
